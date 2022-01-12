@@ -1,4 +1,5 @@
-### 저는 귀요미 뀨돌이에양 👋
+### Kyuhyun Han 
+## - Nice to meet you 👋
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyudori9746&show_icons=true&theme=radical)
