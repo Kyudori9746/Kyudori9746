@@ -1,5 +1,8 @@
 ### 저는 귀요미 뀨돌이에양 👋
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyudori9746&show_icons=true&theme=radical)
+
 <!--
 **Kyudori9746/Kyudori9746** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
