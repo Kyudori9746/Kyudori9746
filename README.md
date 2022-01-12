@@ -1,4 +1,4 @@
-### Hi there 👋
+### 저는 귀요미 뀨돌이에양 👋
 
 <!--
 **Kyudori9746/Kyudori9746** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
